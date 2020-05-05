@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="music_playing">
+    <item>@drawable/gif_playing_01</item>
+    <item>@drawable/gif_playing_02</item>
+    <item>@drawable/gif_playing_03</item>
+    <item>@drawable/gif_playing_04</item>
+    <item>@drawable/gif_playing_05</item>
+    <item>@drawable/gif_playing_06</item>
+    </array>
+
+</resources>

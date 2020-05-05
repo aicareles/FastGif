@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/home/liulei/AndroidStudioProjects/Github/FastGif/libgif/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/liulei/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/liulei/AndroidStudioProjects/Github/FastGif/libgif/.cxx/cmake/release/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "fastgif-Release-armeabi-v7a": {
+      "artifactName": "fastgif",
+      "buildCommand": "/home/liulei/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/liulei/AndroidStudioProjects/Github/FastGif/libgif/.cxx/cmake/release/armeabi-v7a --target fastgif",
+      "abi": "armeabi-v7a",
+      "output": "/home/liulei/AndroidStudioProjects/Github/FastGif/libgif/build/intermediates/cmake/release/obj/armeabi-v7a/libfastgif.so"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+[1/4] Building C object CMakeFiles/fastgif.dir/fastgif/libfastgif.c.o
+[2/4] Building C object CMakeFiles/fastgif.dir/fastgif/lzw.c.o
+[3/4] Building C object CMakeFiles/fastgif.dir/gif_decoder.c.o
+/home/liulei/AndroidStudioProjects/Github/FastGif/libgif/src/main/cpp/gif_decoder.c:148:39: warning: format specifies type 'unsigned long long' but the argument has type 'jlong' (aka 'long') [-Wformat]
+    LOGI("Init Decoder ok! [0x%llx]", params[3]);
+                              ~~~~    ^~~~~~~~~
+                              %lx
+/home/liulei/AndroidStudioProjects/Github/FastGif/libgif/src/main/cpp/jnihelper.h:21:64: note: expanded from macro 'LOGI'
+#define LOGI(...) __android_log_print(ANDROID_LOG_INFO,LOG_TAG,__VA_ARGS__)
+                                                               ^~~~~~~~~~~
+1 warning generated.
+[4/4] Linking C shared library /home/liulei/AndroidStudioProjects/Github/FastGif/libgif/build/intermediates/cmake/debug/obj/arm64-v8a/libfastgif.so

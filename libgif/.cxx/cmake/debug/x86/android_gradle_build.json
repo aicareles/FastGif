@@ -1,0 +1,53 @@
+
+{
+	"buildFiles" : 
+	[
+		"/home/liulei/AndroidStudioProjects/Github/FastGif/libgif/src/main/cpp/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/home/liulei/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/liulei/AndroidStudioProjects/Github/FastGif/libgif/.cxx/cmake/debug/x86 --target clean"
+	],
+	"libraries" : 
+	{
+		"fastgif-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "fastgif",
+			"buildCommand" : "/home/liulei/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/liulei/AndroidStudioProjects/Github/FastGif/libgif/.cxx/cmake/debug/x86 --target fastgif",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android18 --gcc-toolchain=/home/liulei/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/liulei/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dfastgif_EXPORTS -I/home/liulei/AndroidStudioProjects/Github/FastGif/libgif/src/main/cpp/fastgif  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -DNATIVE_LOG -Wall -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/home/liulei/AndroidStudioProjects/Github/FastGif/libgif/src/main/cpp/fastgif/libfastgif.c",
+					"workingDirectory" : "/home/liulei/AndroidStudioProjects/Github/FastGif/libgif/.cxx/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android18 --gcc-toolchain=/home/liulei/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/liulei/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dfastgif_EXPORTS -I/home/liulei/AndroidStudioProjects/Github/FastGif/libgif/src/main/cpp/fastgif  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -DNATIVE_LOG -Wall -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/home/liulei/AndroidStudioProjects/Github/FastGif/libgif/src/main/cpp/fastgif/lzw.c",
+					"workingDirectory" : "/home/liulei/AndroidStudioProjects/Github/FastGif/libgif/.cxx/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android18 --gcc-toolchain=/home/liulei/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/liulei/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dfastgif_EXPORTS -I/home/liulei/AndroidStudioProjects/Github/FastGif/libgif/src/main/cpp/fastgif  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -DNATIVE_LOG -Wall -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/home/liulei/AndroidStudioProjects/Github/FastGif/libgif/src/main/cpp/gif_decoder.c",
+					"workingDirectory" : "/home/liulei/AndroidStudioProjects/Github/FastGif/libgif/.cxx/cmake/debug/x86"
+				}
+			],
+			"output" : "/home/liulei/AndroidStudioProjects/Github/FastGif/libgif/build/intermediates/cmake/debug/obj/x86/libfastgif.so",
+			"toolchain" : "17592527698597844569"
+		}
+	},
+	"toolchains" : 
+	{
+		"17592527698597844569" : 
+		{
+			"cCompilerExecutable" : "/home/liulei/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/home/liulei/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+		}
+	}
+}

@@ -1,0 +1,41 @@
+{
+  "ndkFolder": "/home/liulei/Android/Sdk/ndk/20.0.5594570",
+  "messages": [
+    {
+      "level": "INFO",
+      "message": "android.ndkVersion from module build.gradle is not set"
+    },
+    {
+      "level": "INFO",
+      "message": "ndk.dir in local.properties is /home/liulei/Android/Sdk/ndk/20.0.5594570"
+    },
+    {
+      "level": "INFO",
+      "message": "ANDROID_NDK_HOME environment variable is not set"
+    },
+    {
+      "level": "INFO",
+      "message": "sdkFolder is /home/liulei/Android/Sdk"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/liulei/Android/Sdk/ndk/20.0.5594570 by ndk.dir"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/liulei/Android/Sdk/ndk-bundle in SDK ndk-bundle folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/liulei/Android/Sdk/ndk/android-ndk-r17c in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/liulei/Android/Sdk/ndk/20.0.5594570 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Found requested ndk.dir (/home/liulei/Android/Sdk/ndk/20.0.5594570) which has version 20.0.5594570"
+    }
+  ]
+}

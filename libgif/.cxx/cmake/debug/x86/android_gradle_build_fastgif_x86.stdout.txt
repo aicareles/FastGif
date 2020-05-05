@@ -1,0 +1,4 @@
+[1/4] Building C object CMakeFiles/fastgif.dir/fastgif/libfastgif.c.o
+[2/4] Building C object CMakeFiles/fastgif.dir/fastgif/lzw.c.o
+[3/4] Building C object CMakeFiles/fastgif.dir/gif_decoder.c.o
+[4/4] Linking C shared library /home/liulei/AndroidStudioProjects/Github/FastGif/libgif/build/intermediates/cmake/debug/obj/x86/libfastgif.so

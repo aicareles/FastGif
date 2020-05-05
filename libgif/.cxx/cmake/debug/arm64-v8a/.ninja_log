@@ -1,0 +1,9 @@
+# ninja log v5
+0	74	0	CMakeFiles/fastgif.dir/gif_decoder.c.o	ae482e8ea1ada5e2
+0	98	0	CMakeFiles/fastgif.dir/fastgif/lzw.c.o	fa0b207ea0dd14d8
+0	140	0	CMakeFiles/fastgif.dir/fastgif/libfastgif.c.o	3f133f056aa421da
+140	195	0	/home/liulei/AndroidStudioProjects/Github/FastGif/libgif/build/intermediates/cmake/debug/obj/arm64-v8a/libfastgif.so	a6ce8856cbc4834e
+5	140	0	CMakeFiles/fastgif.dir/gif_decoder.c.o	ae482e8ea1ada5e2
+4	166	0	CMakeFiles/fastgif.dir/fastgif/libfastgif.c.o	3f133f056aa421da
+5	168	0	CMakeFiles/fastgif.dir/fastgif/lzw.c.o	fa0b207ea0dd14d8
+168	266	0	/home/liulei/AndroidStudioProjects/Github/FastGif/libgif/build/intermediates/cmake/debug/obj/arm64-v8a/libfastgif.so	a6ce8856cbc4834e

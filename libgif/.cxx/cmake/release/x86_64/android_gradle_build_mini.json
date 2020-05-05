@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/home/liulei/AndroidStudioProjects/Github/FastGif/libgif/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/liulei/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/liulei/AndroidStudioProjects/Github/FastGif/libgif/.cxx/cmake/release/x86_64 --target clean"
+  ],
+  "libraries": {
+    "fastgif-Release-x86_64": {
+      "artifactName": "fastgif",
+      "buildCommand": "/home/liulei/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/liulei/AndroidStudioProjects/Github/FastGif/libgif/.cxx/cmake/release/x86_64 --target fastgif",
+      "abi": "x86_64",
+      "output": "/home/liulei/AndroidStudioProjects/Github/FastGif/libgif/build/intermediates/cmake/release/obj/x86_64/libfastgif.so"
+    }
+  }
+}
